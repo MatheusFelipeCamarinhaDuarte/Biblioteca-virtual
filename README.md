@@ -1,8 +1,5 @@
 # Biblioteca-virtual 📖
 Está aplicação tem como intuito mostrar como seria feita uma biblioteca virtual para a vizualização e empréstimo de diversos livros virtualmente.
-A aplicação atualmente está no ar no endereço:
-
-    Endereço
 
 Aplicação em desenvolvimento desde 04/07/2024
 ### [Link para o GIT](https://github.com/MatheusFelipeCamarinhaDuarte/Biblioteca-virtual)
@@ -13,7 +10,7 @@ Aplicação em desenvolvimento desde 04/07/2024
 
 [1 - Instruções de como rodar a aplicação](#_Instrucoes)
 
-[2 - Diagramas](#_Diagramas)
+[2 - Tecnologias Usadas](#_Tecnologias)
 
 [3 - Explicações de classes](#_Explicacoes)
 
@@ -35,6 +32,11 @@ A partir deste momento, basta entrar no link fornecido pela aplicação:
 
 A partir deste momento, basta navegar e ver mais os detalhes dos livros!
 Caso queira, pode também criar ou acessar sua conta!
+<a id="_Tecnologias"></a>
+# 2 - Tecnologias usadas
+Para a criação deste site, foi utilizado o Framework Django, com base de banco de dados local do SQL lite. Utilizamos as tecnologias disponíveis dentro do framework para a criação de templates, e de usuários de forma rápida, prática e dinâmica.
+
+
 
 <a id="_Explicacoes"></a>
 
